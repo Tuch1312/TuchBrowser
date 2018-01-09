@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TuchBrowser</string>
+    <string name="history">Cronologia</string>
+    <string name="preferiti">Preferiti</string>
+    <string name="title_activity_impostazioni">Impostazioni</string>
+    <string name="motoreRicercaTesto">Imposta il motore di ricerca predefinito, permette di eseguire ricerce direttamente dalla Hotbar sul tuo motore di ricerca preferito.</string>
+    <string name="ecosiaTesto">*Ecosia è un motore di ricerca che pianta alberi con i suoi introiti pubblicitari.</string>
+    <string name="impostazioni_cronologia_testo">La funzione cronologia permette di tener traccia di tutte le pagine che visiti. (Nota: se disattivi la cronologia, la funzione \'Piu Visitati\' non sarà disponibile)</string>
+    <string name="impostazioni_piu_visitati_testo">La funzione \'Più Visitati\' ti permette di avere le pagine che usi di più sempre a partata di mano sulla dashboard.</string>
+    <string name="avvisoNoPreferitiTesto">Non ce ancora nessun preferito, usa il menu in alto per slavare qui le tue pagine preferite!</string>
+    <string name="avvisoNoVisitati_testo">Ancora nessuna pagina da mostrare, usa la barra di ricerca per cominciare a navigare</string>
+    <string name="avvisoNoCronologia_testo">Funzione disattivata, puoi attivare o disattivare la cronologia nelle impostazioni</string>
+</resources>

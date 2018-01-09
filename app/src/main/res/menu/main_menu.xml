@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Preferiti"
+        android:id="@+id/main_menu_preferiti"/>
+    <item android:title="Cronologia"
+        android:id="@+id/main_menu_cronologia"/>
+    <item android:title="Impostazioni"
+        android:id="@+id/main_menu_impostazioni"/>
+</menu>
